@@ -1,4 +1,7 @@
 # Travel Journal
+## Live Demo
+
+[View the Travel Journal](https://travel-journal-gamma-nine.vercel.app)
 
 A scrapbook-style travel journal built using React and Vite.
 
